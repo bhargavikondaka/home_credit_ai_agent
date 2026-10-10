@@ -1,0 +1,44 @@
+[2026-10-10T06:01:57.758+00:00] assistant: Hello, am I speaking with ? My name is Sakshi, calling from Home Credit.
+[2026-10-10T06:02:04.365+00:00] user: Yeah. Can I get home credit? My name is.
+[2026-10-10T06:02:11.233+00:00] assistant: Thank you for confirming, . My name is Sakshi, and I'm calling from Home Credit. Is this a convenient time for a quick conversation?
+[2026-10-10T06:02:23.204+00:00] user: Yeah.
+[2026-10-10T06:02:24.072+00:00] assistant: Thank you, . I'm calling because, as a valued Home Credit customer, you may be eligible for a special Loan Against Property offer of up to ₹75 Lakhs. I'd like to ask a few questions to check whether the offer may be suitable for you. Would you be comfortable continuing?
+[2026-10-10T06:02:41.324+00:00] user: Yes.
+[2026-10-10T06:02:42.432+00:00] assistant: Wonderful, thank you. Before we begin, may I confirm whether you're looking for a new loan against your property, or do you already have a loan on the property and want to transfer it or reduce your current EMI?
+[2026-10-10T06:02:56.284+00:00] user: New credit property.
+[2026-10-10T06:02:58.712+00:00] assistant: Great, thank you for clarifying. I'll ask seven short questions about the property, ownership, documents, loan requirement, income, property value, and repayment period.
+
+To start, could you tell me what type of property you'd like to use for the loan? Is it residential, such as a house or flat; commercial, such as a shop or office; or industrial, such as a factory?
+[2026-10-10T06:03:24.965+00:00] user: It's residential.
+[2026-10-10T06:03:27.112+00:00] assistant: Thank you. That's an eligible property type.
+
+Are you the sole owner of the property, or is it jointly owned with family members or other partners
+[2026-10-10T06:03:38.445+00:00] user: If I'm the soul,
+[2026-10-10T06:03:40.872+00:00] assistant: Understood, sole ownership is perfectly fine. Do you currently have the original property documents available for verification?
+[2026-10-10T06:03:51.444+00:00] user: Yeah.
+[2026-10-10T06:03:52.752+00:00] assistant: Excellent, that's a key requirement met. How much would you like to borrow against your property?
+[2026-10-10T06:03:59.604+00:00] user: फिर class के कुछ.
+[2026-10-10T06:04:02.192+00:00] assistant: Could you please repeat that? I didn't quite catch it. How much would you like to borrow against your property?
+[2026-10-10T06:04:09.125+00:00] user: Fifty लाख रुपए.
+[2026-10-10T06:04:11.073+00:00] assistant: Thank you. ₹50 Lakhs is well within our offer limit.
+
+Next, could you tell me whether you're salaried or self-employed? Also, do you receive your income through a bank account or in cash?
+[2026-10-10T06:04:25.245+00:00] user: I'm sorry.
+and I received income through bank account.
+[2026-10-10T06:01:58.153+00:00] assistant: Perfect, salaried and receiving income through a bank account are both good for this offer.
+
+Now, what would you estimate the current market value of your property to be
+[2026-10-10T06:04:43.285+00:00] user: Maybe forty lakhs.
+[2026-10-10T06:04:46.512+00:00] assistant: Thank you for providing that estimate.
+
+Finally, for how many years would you prefer to repay the loan
+[2026-10-10T06:04:54.525+00:00] user: Je
+[2026-10-10T06:04:58.352+00:00] assistant: Could you please tell me for how many years you would prefer
+[2026-10-10T06:04:58.884+00:00] user: Nine years
+[2026-10-10T06:05:00.913+00:00] assistant: Thank you, 9 years is within the eligible repayment tenure.
+
+I've recorded your preliminary details, and based on the information you've shared, you meet the initial criteria for us to take this enquiry forward. A senior Home Credit loan expert will contact you shortly to discuss the next steps and the applicable interest rate.
+
+Before we finish, is there anything else about the preliminary process you'd like me to clarify
+[2026-10-10T06:05:25.965+00:00] user: No. Nothing.
+[2026-10-10T06:05:27.632+00:00] assistant: Thank you for your time and for being a valued Home Credit customer. Our specialist will follow up with you shortly. Have a wonderful day!
